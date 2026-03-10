@@ -1,0 +1,8 @@
+module maybe-cpp (*)
+
+import maybe
+import root-cpp
+
+source Cpp from "maybe.hpp"
+    ( "morloc_fromMaybe" as fromMaybe
+    )
