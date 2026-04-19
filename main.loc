@@ -5,4 +5,5 @@ import root-cpp
 
 source Cpp from "maybe.hpp"
     ( "morloc_fromMaybe" as fromMaybe
+    , "morloc_isNull" as isNull
     )
