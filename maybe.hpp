@@ -2,7 +2,6 @@
 #define __MORLOC__MAYBE_HPP__
 
 #include <optional>
-#include <stdexcept>
 
 // fromMaybe :: ?a -> a
 // Unwrap an optional value (safe under a null guard)
